@@ -53,4 +53,5 @@ case $choice in
   *)
     echo "Invalid choice!"
     ;;
-esac
+esac:
+This calculator by Victor
